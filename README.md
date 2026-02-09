@@ -1,4 +1,4 @@
-# tugas_akhir
+# Camera Mobile App
 
 A new Flutter project.
 
